@@ -16,7 +16,7 @@
 //#define  ADC_SOLUTION      (1023.0)//ADC accuracy of Arduino UNO is 10bit
 
 const char* ssid = "BELL932";
-const char* password = "CMR062023";
+const char* password = "";
 
 const int potPin = 35;    // select the input pin 
 
